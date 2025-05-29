@@ -1,0 +1,28 @@
+18:41:52.968 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+***********Starting TC001***********
+18:41:52.989 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Clicked on My Account and Register***********
+18:41:53.500 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Generate user details***********
+18:41:53.876 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Accept privacy policy***********
+18:41:53.930 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Clicked Continue to register***********
+18:41:54.811 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Account is registered***********
+18:41:54.851 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+***********Printing customer details***********
+18:42:41.329 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+***********Starting TC001***********
+18:42:41.345 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Clicked on My Account and Register***********
+18:42:41.784 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Generate user details***********
+18:42:42.104 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Accept privacy policy***********
+18:42:42.156 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Clicked Continue to register***********
+18:42:43.220 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+************Account is registered***********
+18:42:43.249 [main]   INFO  testCases.TC001_AccountRegistrationTest  - 
+***********Printing customer details***********

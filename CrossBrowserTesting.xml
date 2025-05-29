@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite thread-count="5" name="Suite" parallel = "tests">
+  <Listerners>
+  <listener class-name = "utilities.ExtentReportManager">
+  </listener>
+  </Listerners>
+  <test  name="ChromeTest">
+  <parameter  name = "os" value = "Windows" />
+  <parameter name = "browser" value = "chrome" />
+    <classes>
+      <!--<class name="testCases.TC001_AccountRegistrationTest"/>-->
+       <class name="testCases.TC_002LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test  name="EdgeTest">
+  <parameter  name = "os" value = "Windows" />
+  <parameter name = "browser" value = "edge" />
+    <classes>
+   <!--  <class name="testCases.TC001_AccountRegistrationTest"/> -->
+     <class name="testCases.TC_002LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+
+ <test  name="FirefoxTest">
+  <parameter  name = "os" value = "Windows" />
+  <parameter name = "browser" value = "firefox" />
+    <classes>
+      <!--<class name="testCases.TC001_AccountRegistrationTest"/>-->
+      <class name="testCases.TC_002LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
+
